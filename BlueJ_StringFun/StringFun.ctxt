@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=StringFun
+comment0.text=\r\n\ Fun\ With\ Strings\r\n\r\n\ @author\ Haoye\r\n\ @version\ 1573843998\r\n
+comment1.params=myName
+comment1.target=void\ printEachLetter(java.lang.String)
+comment1.text=\r\n\ Prints\ each\ letter\ of\ a\ given\ string\ (one\ per\ line).\r\n\ @param\ myName\ A\ string\ to\ analyze\r\n
+comment2.params=ltr
+comment2.target=boolean\ isVowel(char)
+comment2.text=\r\n\ Determines\ if\ the\ given\ letter\ is\ a\ vowel.\r\n\ @param\ ltr\ The\ letter\ to\ analyze\r\n\ @return\ True\ if\ the\ letter\ is\ a\ vowel,\ false\ otherwise.\ Y\ will\ not\ be\ considered\ a\ vowel.\r\n
+comment3.params=myName
+comment3.target=void\ printVowels(java.lang.String)
+comment3.text=\r\n\ Prints\ only\ the\ vowels\ in\ a\ given\ string\ (one\ per\ line).\r\n\ You\ must\ call\ your\ isVowel\ method\ in\ this\ method.\r\n\ @param\ myName\ The\ string\ to\ analyze\r\n
+comment4.params=original
+comment4.target=java.lang.String\ backwardsString(java.lang.String)
+comment4.text=\r\n\ Returns\ a\ backwards\ copy\ of\ the\ original\ string.\r\n\ @param\ original\ The\ original\ string\ to\ analyze\r\n\ @return\ A\ backwards\ copy\ of\ the\ original\ string\r\n
+comment5.params=myName
+comment5.target=boolean\ isPalindrome(java.lang.String)
+comment5.text=\r\n\ \ Returns\ true\ if\ the\ given\ String\ is\ a\ palindrome\ (reads\ the\ same\r\n\ \ forwards\ and\ backwards\ (example\:\ "racecar").\ This\ method\ should\r\n\ \ be\ case\ sensitive\ (e.g.\ "Racecar"\ is\ not\ a\ palindrome\ but\ "RacecaR"\ is).\r\n\ \ You\ should\ call\ your\ backwardsString\ method\ in\ this\ method.\r\n
+comment6.params=s
+comment6.target=java.lang.String\ removeVowels(java.lang.String)
+comment6.text=\r\n\ Returns\ a\ copy\ of\ the\ given\ String\ with\ all\ the\ vowels\ removed.\ (NOTE\:\ y\ is\ not\ considered\ a\ vowel)\r\n\ You\ should\ call\ your\ isVowel\ method\ in\ this\ method.\r\n\ @param\ s\ The\ original\ String\ to\ process\r\n\ @return\ A\ copy\ of\ the\ given\ String\ with\ all\ the\ vowels\ removed.\ (NOTE\:\ y\ is\ not\ considered\ a\ vowel)\r\n
+numComments=7
